@@ -50,14 +50,6 @@ class Security {
         });
 
 //add code for what happens when the third button is pressed
-
-        this.button3.mousePressed(() => {
-            if(system.authenticate(accessCode3,this.access3.value())){
-                this.button3.hide();
-                this.access3.hide();
-                score++;
-            }
-        });
         
 
         this.button3.mousePressed(() => {
