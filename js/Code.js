@@ -23,4 +23,4 @@ function clues() {
     text("A T A D A S B A", 100,250)
     fill("lightblue")
     text("Hint: Stores all information !!", 100,270)
-}
+} 
